@@ -30,7 +30,7 @@ export default async function Home() {
             Success
           </div>
           <div className="text-xl pt-6 tracking-wider">
-            Now Available for Online Coaching
+            Now Available for Online Coaching. Book Now!
           </div>
           <div className="pt-7">
             <a
